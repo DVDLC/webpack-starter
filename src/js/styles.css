@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #ddd;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem;
+}
+
+img{
+    width: 20vh;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 1rem;
+    font-size: 2vh;
+}
