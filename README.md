@@ -11,4 +11,18 @@
 8. Optimizaciones para producción
 9. Manejo de imágenes
 
-Al final, tendre una configuración estándar para la mayoría de aplicaciones de JavaScript, que me permitirá iniciar proyectos rápidamente sin tener que pasar por toda la configuración de Webpack de nuevo.
+Al final, tendre una configuración estándar para la mayoría de aplicaciones de JavaScript, que me permitirá iniciar proyectos 
+rápidamente sin tener que pasar por toda la configuración de Webpack de nuevo.
+
+### Notas:
+
+Recuerda reconstruir los modulos de node:
+ ```
+    npm install 
+ ```
+
+Y para construir el build recuerda:
+
+```
+    npm run build
+```
